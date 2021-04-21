@@ -1,0 +1,28 @@
+[33mcommit 2e08662aa69e17df0cbdd2914208876340b1e3e9[m[33m ([m[1;36mHEAD[m[33m)[m
+Author: AlonsoArias <alonso.arsc@gmail.com>
+Date:   Tue Apr 20 21:49:53 2021 -0500
+
+    commit al master del blogspot en su versión mas reciente
+
+ CSS/estilos.css | 22 [32m++++++++++++++++++++++[m
+ blogpost.html   | 17 [32m+++++++++++++++++[m
+ hello.py        |  1 [32m+[m
+ 3 files changed, 40 insertions(+)
+
+[33mcommit ed5cf824bb4cb253e3731ad1591bf9f6ccd04a6b[m
+Author: AlonsoArias <alonso.arsc@gmail.com>
+Date:   Sun Apr 18 17:15:12 2021 -0500
+
+    Reemplazo de una versión por otra de la historia
+
+ historia_alonso.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit 0a1add171ac015aebe40db90cd426b9b42b46aec[m
+Author: AlonsoArias <alonso.arsc@gmail.com>
+Date:   Sun Apr 18 16:17:04 2021 -0500
+
+    Este es el primer commit de este archivo
+
+ historia_alonso.txt | 5 [32m+++++[m
+ 1 file changed, 5 insertions(+)
