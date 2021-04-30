@@ -3,8 +3,4 @@ Esta es la hisotira de Alonso Arias
 Alonso Arias tiene 37 años y nacio en Perú,
 viviendo en México
 
-<<<<<<< HEAD
 Hoy hablaremos de su vida y obra maestra.
-=======
-mañana nos enfocaremos en su vida laboral
->>>>>>> cabecera
